@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Bruno Roberto Zanuzzo and I'm a Fedora contributor :-)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+An enthusiast in the open source world that hopes to share ideas and experiences. I love science and technology, learn a lot of things like how stuff works and talk with interesting people that share the same passions and beliefs. I'm also slightly addicted to coffee.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[xmrbrz@fedoraproject.org](mailto:xmrbrz@fedoraproject.org)
